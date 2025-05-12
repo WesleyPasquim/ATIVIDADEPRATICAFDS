@@ -1,0 +1,51 @@
+/* O fundo da página deve ter uma cor suave. */
+body {
+    background-color: rgb(198, 233, 255);
+}  
+
+/* O título (<h1>) deve ter uma cor diferente e estar centralizado.*/
+
+h1 {
+    color: darkblue;
+    text-align: center;
+}
+
+/* O parágrafo (<p>) deve ter um tamanho de fonte maior e ser justificado.*/
+
+p {
+    font-size: 20px;
+    text-align: justify;
+}
+
+/* A lista (<ul>) deve ter um espaçamento maior entre os itens. */
+
+.Hobbies {
+    padding: 40px;
+    line-height: 40px
+}
+
+/* A imagem (<img>) deve ter bordas arredondadas e um tamanho adequado.*/
+
+img {
+    border-radius: 08%
+}
+
+/*A tabela(<table>) deve estar estilizada.*/
+
+table{
+    color: darkred
+}
+
+th{
+    color: darkviolet
+}
+
+.titulotabela th {
+    color: darkorange
+}
+
+/*O link (<a>) deve mudar de cor quando o usuário passar o mouse sobre ele.*/
+
+.Link:hover{
+    color: khaki 
+}
